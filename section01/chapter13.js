@@ -50,6 +50,6 @@ repeat(5, function (idx) {
 });
 
 repeat(5, (idx) => {
-  //repeatTriple
+  //repeatTriple (함수를 간결하게 표현)
   console.log(idx * 3);
 });
